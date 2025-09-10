@@ -73,7 +73,7 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
 
 ## 📫 How to Reach Me  
 
-[![Email](https://img.shields.io/badge/Email-duypd3103%40gmail.com-red?logo=gmail)](mailto:duypd3103@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-darianor.pham%40gmail.com-red?logo=gmail)](mailto:darianor.pham@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Duypd02-blue?logo=linkedin)](https://www.linkedin.com/in/duypd02/)  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=4-krAPsAAAAJ&hl=vi&authuser=1)  
 [![GitHub](https://img.shields.io/badge/GitHub-dydypd-black?logo=github)](https://github.com/dydypd)  
