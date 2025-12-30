@@ -23,7 +23,7 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
 ## 💡 Featured Projects  
 
 <details>
-  <summary>📦 Multi-Agent LLMs for Supply Chain</summary>
+  <summary>Multi-Agent LLMs for Supply Chain</summary>
   
   - **Description**: Using Multi-Agent Large Language Models in supply chain management to enhance coordination and decision-making.  
   - **Tasks**: Demand forecasting, inventory management, logistics optimization.  
@@ -33,7 +33,7 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
 </details>
 
 <details>
-  <summary>🧑‍💼 HRM Agent *(Internal Project)*</summary>
+  <summary>HRM Agent *(Internal Project)*</summary>
   
   - **Description**: A Human Resource Management (HRM) system powered by Multi-Agent LLMs.  
   - **Features**: CV evaluation, salary negotiation, employee support via AI agents.  
@@ -44,7 +44,7 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
 
 ---
 
-## 📚 Publications  
+## Publications  
 
 <details>
   <summary>📖 2025 – International Journal of Control, Automation and Systems</summary>
@@ -56,22 +56,22 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
     [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs12555--023--0905--6-blue)](https://doi.org/10.1007/s12555-023-0905-6)
 
   <details>
-    <summary>🔍 Abstract</summary>
+    <summary>Abstract</summary>
     This paper proposes an adaptive fault-tolerant control method for Markovian jump systems in the presence of actuator fault, unknown dead zone, and external disturbance...
   </details>
 </details>
 
 ---
 
-## 🎯 Goals  
+## Goals  
 
-- [ ] 📚 Continue learning and growing in AI, Multi-Agent Systems, and Software Engineering.  
-- [ ] 🛠️ Contribute to open-source projects.  
-- [ ] 💡 Build real-world Agentic AI applications using MCP and Google ADK.  
+- [ ] Continue learning and growing in AI, Multi-Agent Systems, and Software Engineering.  
+- [ ] Contribute to open-source projects.  
+- [ ] Build real-world Agentic AI applications using MCP and Google ADK.  
 
 ---
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 
 [![Email](https://img.shields.io/badge/Email-darianor.pham%40gmail.com-red?logo=gmail)](mailto:darianor.pham@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Duypd02-blue?logo=linkedin)](https://www.linkedin.com/in/duypd02/)  
@@ -81,6 +81,4 @@ I'm passionate about building **Agentic AI systems** and exploring how **MCP (Mo
 
 ---
 
-✨ Thanks for stopping by! Feel free to reach out if you'd like to collaborate or have any questions.  
-
-[![Dydypd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dydypd&show_icons=true&theme=dark)](https://github.com/dydypd/github-readme-stats)
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or have any questions.  
